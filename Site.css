@@ -1,0 +1,8 @@
+.bar_transparente
+{
+    background-color: blue;
+    width: 100%;
+    height: 55px;
+    border: 1px solid black;
+    filter:blur(55px);
+}
